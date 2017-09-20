@@ -13,6 +13,11 @@
   font-family: "SFUIegular", serif;
 }
 
+.image {
+  display: block;
+  margin: auto;
+}
+
 @font-face {
   font-family: 'SFUIegular';
   src: url('public/fonts/mainFont/SFUIText-regular.eot');
