@@ -20,11 +20,11 @@
 
 @font-face {
   font-family: 'SFUIegular';
-  src: url('public/fonts/mainFont/SFUIText-regular.eot');
-  src: url('public/fonts/mainFont/SFUIText-regular.eot?#iefix') format('embedded-opentype'),
-       url('public/fonts/mainFont/SFUIText-regular.woff') format('woff'),
-       url('public/fonts/mainFont/SFUIText-regular.ttf') format('truetype'),
-       url('public/fonts/mainFont/SFUIText-regular.svg#Sri-TSCRegular') format('svg');
+  src: url('fonts/mainFont/SFUIText-regular.eot');
+  src: url('fonts/mainFont/SFUIText-regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/mainFont/SFUIText-regular.woff') format('woff'),
+       url('fonts/mainFont/SFUIText-regular.ttf') format('truetype'),
+       url('fonts/mainFont/SFUIText-regular.svg#Sri-TSCRegular') format('svg');
   font-weight: normal;
   font-style: normal;
  }
